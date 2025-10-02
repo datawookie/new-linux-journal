@@ -1,3 +1,3 @@
-# The Linux Journal
+# Linux Journal
 
-Old copies of _The Linux Journal_.
+![](linux-covers.png)
